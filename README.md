@@ -14,7 +14,7 @@
 
     Training Different Models:
     
-    In this task, we train various machine learning models on the MNIST dataset. We start with a logistic regression model, which is a basic classifier. We also train a logistic regression model with L2 regularization, which helps prevent overfitting. Additionally, we experiment with Bayesian Neural Networks, exploring variations in the number of layers and hidden sizes. Model Comparison:
+    In this task, we train various machine learning models on the MNIST dataset. We start with a logistic regression model, which is a basic classifier. We also train a logistic regression model with L2 regularization, which helps prevent overfitting. Additionally, we experiment with Bayesian Neural Networks, exploring variations in the           number of layers and hidden sizes. Model Comparison:
     
     We compare the performance of these different models in terms of accuracy and architecture. We also consider the theoretical and practical implications of using these models.
   
